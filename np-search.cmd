@@ -1,0 +1,1 @@
+@powershell -NoProfile -File "%~dp0np-search.ps1" %*
